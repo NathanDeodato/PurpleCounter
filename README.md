@@ -2,16 +2,16 @@
 
 ---
 
-<h1 align="center">VioletCounter</h1>
+<h1 align="center">PurpleCounter</h1>
 
 <p>
-    A VioletCounter é um contador simples, com 3 funcionalidades e um visor.
+    A PurpleCounter é um contador simples, com 3 funcionalidades e um visor.
 </p>
 
 ---
 
 <h2 align="center">Design</h2>
-<a href="https://www.figma.com/file/sH2wPCG6ZUYt6NR9xrgjxD/OrangeCounter?node-id=0%3A1"><img src="https://img.shields.io/static/v1?label=Design&message=Figma&color=00FA9A&style=for-the-badge&logo=FIGMA" alt="ntShield"></a>
+<a href="https://www.figma.com/file/sH2wPCG6ZUYt6NR9xrgjxD/PurpleCounter?node-id=0%3A1"><img src="https://img.shields.io/static/v1?label=Design&message=Figma&color=00FA9A&style=for-the-badge&logo=FIGMA" alt="ntShield"></a>
 
 ---
 
