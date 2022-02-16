@@ -12,7 +12,9 @@ export default class App extends Component {
   }
 
   moreNum = () => {
-    this.setState({number: this.state.number + 1})
+    if (this.state.number < 10) {
+      this.setState({number: this.state.number + 1})
+    }
   }
 
   clearNum = () => {
@@ -20,7 +22,9 @@ export default class App extends Component {
   }
 
   lessNum = () => {
-    this.setState({number: this.state.number - 1})
+    if (this.state.number > 0) {
+      this.setState({number: this.state.number - 1})
+    }
   }
   
   render() {
