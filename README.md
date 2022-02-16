@@ -34,10 +34,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 5vw;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 5vw;"/>
 
-<h3 align="center">Academia</h3>
-
-<img src="App/src/Assets/LogoVNW.svg" style="width: 5vw;">
-
 ---
 
 <h3 align="center">Status</h3>
