@@ -1,0 +1,95 @@
+/* config-font */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+/* config-body */
+body {
+  color: #FFFFFF;
+  background-color: #1c1c1c;
+  font-family: 'Oswald', sans-serif;
+}
+
+/* orangeBody */
+.orangeBody {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* config-header */
+header {
+  height: 15vh;
+
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  font-size: 2.5em;
+}
+
+/* config-main */
+main {
+  height: 70vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.counterBox {
+  width: 35vw;
+  height: 35vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  border: solid 7px #7B68EE;
+  border-radius: 20px;  
+}
+
+.visorBox {
+  width: 40%;
+  height: 30%;
+
+  display: flex;
+  justify-content: center;
+
+  margin-top: 5vh;
+
+  background-color: #7B68EE;
+  border-radius: 10px;
+}
+
+.buttonsBox {
+  width: 100%;
+  height: 60%;
+  
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.operationButton {
+  width: 5vw;
+}
+.operationButton:hover {
+  cursor: pointer;
+}
+
+.resetIcon {
+  width: 3vw;
+}
+.resetIcon:hover {
+  cursor: pointer;
+}
+
+/* config-footer */
+footer {
+  height: 15vh;
+
+  display: flex;
+  align-items: center;
+}
