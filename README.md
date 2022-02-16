@@ -36,9 +36,7 @@
 
 <h3 align="center">Academia</h3>
 
-<section>
-    <img src="/Assets/Icons/LogoVNW.svg">
-</section>
+<img src="App/src/Assets/LogoVNW.svg" style="width: 5vw;">
 
 ---
 
