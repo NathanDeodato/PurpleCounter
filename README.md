@@ -11,7 +11,7 @@
 ---
 
 <h2 align="center">Design</h2>
-<a href="https://www.figma.com/file/tDNm0UygzDriKZwveUKJ3L/WebGogh?node-id=0%3A1"><img src="https://img.shields.io/static/v1?label=Design&message=FIGMA&color=#1c1c1c&style=for-the-badge&logo=GHOST" alt="ntShield-Designe"></a>
+<a href="https://www.figma.com/file/sH2wPCG6ZUYt6NR9xrgjxD/OrangeCounter?node-id=0%3A1"><img src="https://img.shields.io/static/v1?label=Design&message=Figma&color=00FA9A&style=for-the-badge&logo=FIGMA" alt="ntShield"></a>
 
 ---
 
@@ -23,18 +23,15 @@
 
 <h2  align="center">Project</h2>
 
-<img src="/App/src/Assets/VioletCounter.png" alt="PageWeb-01">
+<img src="/App/src/Assets/PurpleCounter.png" alt="PageWeb-01">
 
 ---
 
 <h2  align="center">Technologies</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 20vw;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 20vw;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 20vw;"/>
-
-
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 10vw;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 10vw;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 10vw;"/>
 
 <h3 align="center">Academia</h3>
 

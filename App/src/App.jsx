@@ -30,7 +30,7 @@ export default class App extends Component {
         <header>
           
           <h1 className="title">
-            VioletCounter
+            PurpleCounter
           </h1>
 
         </header>
