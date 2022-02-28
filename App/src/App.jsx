@@ -32,9 +32,11 @@ export default class App extends Component {
         
         <header>
           
-          <a href="">
-            <img className="systemHome" src={iconSystemHome}></img>
-          </a>
+          <img className="systemHome" src={iconSystemHome}>
+
+            <a href="https://purplesystem.netlify.app/"></a>
+
+          </img>
 
           <h1 className="title">
             PurpleCounter
