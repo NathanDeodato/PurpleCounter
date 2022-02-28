@@ -1,8 +1,7 @@
 import React, { Component } from "react"
 
-import moreIcon from "./Assets/more.png"
-import resetIcon from "./Assets/reset.png"
-import lessIcon from "./Assets/less.png"
+// Images 
+import {iconMore, iconReset, iconLess, iconSystemHome} from "../src/Assets"
 
 import "./App.css"
 
@@ -29,10 +28,14 @@ export default class App extends Component {
   
   render() {
     return (
-      <div className="orangeBody">
+      <div className="purpleBody">
         
         <header>
           
+          <a href="">
+            <img className="systemHome" src={iconSystemHome}></img>
+          </a>
+
           <h1 className="title">
             PurpleCounter
           </h1>
@@ -53,11 +56,11 @@ export default class App extends Component {
 
             <section className="buttonsBox">
               
-                <img className="operationButton" src={moreIcon} alt="" onClick={this.moreNum}></img>
+                <img className="operationButton" src={iconMore} alt="" onClick={this.moreNum}></img>
 
-                <img className="resetIcon" src={resetIcon} alt="" onClick={this.clearNum}></img>
+                <img className="resetIcon" src={iconReset} alt="" onClick={this.clearNum}></img>
                 
-                <img className="operationButton" src={lessIcon} alt="" onClick={this.lessNum}></img>
+                <img className="operationButton" src={iconLess} alt="" onClick={this.lessNum}></img>
 
             </section>
 
