@@ -31,12 +31,12 @@ export default class App extends Component {
       <div className="purpleBody">
         
         <header>
-          
-          <img className="systemHome" src={iconSystemHome}>
 
-            <a href="https://purplesystem.netlify.app/"></a>
+          <a href="https://purplesystem.netlify.app/">
 
-          </img>
+            <img className="systemHome" src={iconSystemHome}></img>
+
+          </a>
 
           <h1 className="title">
             PurpleCounter
